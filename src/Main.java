@@ -33,7 +33,7 @@ public class Main {
         //27897
         //67
         float g = 27.12f;
-        float h = 987678965549f;
+        long h = 987678965549L;
         float q = 2.786f;
         int w = 569;
         int r = -159;
